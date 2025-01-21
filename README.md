@@ -1,6 +1,6 @@
 # 📚 Philosophers
 
-> This repository contains a "Philosophers" project that is part of the École 42 curriculum.
+> This repository contains "Philosophers" project that is part of the École 42 curriculum.
 
 The philosophers project, part of the 42 Campus curriculum, is an exploration of multithreading and synchronization in programming. This repository does not include the bonus part of the project, it's focused on the primary problem statement.
 
